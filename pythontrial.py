@@ -12,3 +12,6 @@ print("another change")
 
 #making this change in the branch. 
 print("made a change in the branch")
+
+print("change 1")
+print("change 2")
